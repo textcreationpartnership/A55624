@@ -1,0 +1,439 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest and true account of the proceedings against Mr. Abraham Anselm, late secretary to the late admirals of the Fleet as they happ'ned and were brought on before the Right Honourable Their Majesties Principal Secretary of State, Their Majesties Most Honourable Privy Council, Their Majesties Council at Law, and as they were examined by the Grand Jury for the county of Middle-Sex at the sessions held at Hick's-Hall, September the sixth, 1693 : in a letter to a friend : together with an answer thereunto.</title>
+            <author>Praed, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55624</idno>
+            <idno type="STC">Wing P3164</idno>
+            <idno type="STC">ESTC R8895</idno>
+            <idno type="EEBO-CITATION">13739326</idno>
+            <idno type="OCLC">ocm 13739326</idno>
+            <idno type="VID">101653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest and true account of the proceedings against Mr. Abraham Anselm, late secretary to the late admirals of the Fleet as they happ'ned and were brought on before the Right Honourable Their Majesties Principal Secretary of State, Their Majesties Most Honourable Privy Council, Their Majesties Council at Law, and as they were examined by the Grand Jury for the county of Middle-Sex at the sessions held at Hick's-Hall, September the sixth, 1693 : in a letter to a friend : together with an answer thereunto.</title>
+                  <author>Praed, John.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Praed.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anselm, Abraham, d. 1737.</term>
+               <term>Middlesex (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101653:1"/>
+            <pb facs="tcp:101653:1" rendition="simple:additions"/>
+            <p>A Modeſt, and True ACCOUNT OF THE PROCEEDINGS AGAINST Mr. <hi>Abraham Anſelm,</hi> late Secretary to the late Admirals of the FLEET: AS They happ'ned, and were brought on be<g ref="char:EOLhyphen"/>fore the Right Honourable, Their Maje<g ref="char:EOLhyphen"/>ſties Principal Secretary of State, Their Majeſties Moſt Honourable Privy Council, Their Majeſties Council at Law; and as they were Examined by the Grand Jury for the County of <hi>Middle-Sex,</hi> at the Seſſions, held at <hi>Hick's-Hall, September</hi> the Sixth, 1693.</p>
+            <p>In a Letter to a Friend.</p>
+            <p>Together with an Anſwer thereunto.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper,</hi> at the <hi>Mitre</hi> within <hi>Temple-Bar.</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101653:2"/>
+            <pb facs="tcp:101653:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>PErhaps I had not Expoſed this my Letter to the Publick View, but that Mr. <hi>Anſelms,</hi> to Captain <hi>Wall,</hi> (wherein he calls me <hi>Villain,</hi> &amp;c.) hath been ſhown to ſome of the Honourable Re<g ref="char:EOLhyphen"/>preſentatives of this Nation, before whom the buſineſs of the <hi>Admirals</hi> have been brought about, and ſo may others alſo.</p>
+            <p>I hear, I have been Miſrepreſented to to Their Majeſties (as well as to others) as I was to <hi>Charles</hi> the <hi>II.</hi> for ſerving my
+<pb facs="tcp:101653:3"/>King and Country Abroad, with the ha<g ref="char:EOLhyphen"/>zard both of my Life and Fortune, and then I could not defend my ſelf from the Defamation, but now (I hope) I may with<g ref="char:EOLhyphen"/>out any Offence.</p>
+            <p>
+               <hi>Philip</hi> of <hi>Macedon</hi> (as Illuſtrious for his Wit, as for his Valour and Vertue) being adviſed to Correct a Man for ſay<g ref="char:EOLhyphen"/>ing ſome things (as his Enemy ſaid) <hi>Un<g ref="char:EOLhyphen"/>ſeaſonably</hi>—<hi>We muſt firſt, (ſaid the King) Conſider, whither he had not occa<g ref="char:EOLhyphen"/>ſion given him to ſay what he did.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:101653:3"/>
+            <head>
+               <hi>A Modeſt, and True ACCOUNT OF</hi> The Proceedings againſt Mr. <hi>Abraham Anſelm</hi> late Secretary, to the late Ad<g ref="char:EOLhyphen"/>mirals of the FLEET.</head>
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            <p>SINCE (As you are pleas'd to ſay) I have loſt that Reputation, which I lately Re<g ref="char:EOLhyphen"/>gain'd by a Law Suit, and that I am fallen under the Defamation of a <hi>MALICIO<g ref="char:V">Ʋ</g>S JNFORMER;</hi> I think fit (as your Requeſt commands me) to give you the following Account concerning Mr. <hi>ANSELEM, &amp;c.</hi> tho' I had rather be ſilent in the Caſe, like a Man of <hi>Inward</hi> and <hi>Real</hi> Honour, who adventures the Fame, to pre<g ref="char:EOLhyphen"/>ſerve the Conſcience, of an honeſt Man.</p>
+            <pb n="6" facs="tcp:101653:4"/>
+            <p>SOME time after I came to <hi>London,</hi> about the Law Suit; I had occaſion to Converſe with one Captain <hi>Peter Rowe,</hi> not only upon Account of the Law Suit, but alſo on ſome other account, becauſe he is an underſtanding Man, in many things, which I have had occaſion to make uſe of.</p>
+            <p>This Captain <hi>Rowe,</hi> came one day to me and told me (as a ſecret) that he had an Incredible thing to impart to me, which he would truſt no body elſe with<g ref="char:EOLhyphen"/>all; becauſe he could not but miſtruſt it himſelf.</p>
+            <p>But ſoon after he went to one Captain <hi>Peter Wall,</hi> and not only told him what he told me, but alſo what I told him, as a ſecret, thereon; which was, that I did the rather believe what he had ſo intruſted me withal, for a reaſon which hereafter follows.</p>
+            <p>NOW a ſtrange Diſcourſe about the <hi>Turky-Fleet</hi> was juſt breaking out, when Captain <hi>Wall</hi> came to me, and asked me concerning what I had ſaid to Cap<g ref="char:EOLhyphen"/>tain <hi>Rowe,</hi> and what Captain <hi>Rowe</hi> had ſaid to me: I was ſurprized at his knowledge thereof, but ſince the Truth was out, I could not ſay (as ſome ſay I ſhould) it was a Lye.</p>
+            <p>So, upon my acknowledgement of the matter, Cap<g ref="char:EOLhyphen"/>tain <hi>Wall</hi> asked my advice; and I gave him ſuch as Correſponded with his own opinion.</p>
+            <p>But I told him it might do more ill to me, than good to the Nation, for two Reaſons; one whereof was, that I had a juſt Pretention againſt Mr. <hi>Anſelm</hi> for 1500 <hi>l.</hi> and therefore pray'd him if poſſible, not to mention my name in the matter; nevertheleſs I left it to him.</p>
+            <p>The Captain at that time as little regarded that reaſon, as he did the other, and, going into <hi>Southampton,</hi> he wrote from thence (unknown to me) the follow<g ref="char:EOLhyphen"/>ing Letters, to Two of the Admirals.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:101653:4"/>
+                  <head>To the Honourable, Mr. <hi>Henry Killegrew.</hi>
+                  </head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I Take the boldneſs, being formerly Acquainted with you, to give an Account of the Gentleman, Mr. <hi>Abra<g ref="char:EOLhyphen"/>ham Anſelm,</hi> who is now your Secretary which might prove of very bad Conſequence, as well to your ſelf and the other Gentlemen that are with you in Commiſſion, as alſo to the Nation, which I wiſh well, as do your ſelf.</p>
+                  <p>Yeſterday, being <hi>Sunday</hi> the 22th. of <hi>May,</hi> came a <hi>Sea-Commander</hi> to my Houſe, who told me that he was Recommended by the ſaid <hi>Anſelm,</hi> to give his word that he would Command a Ship for King <hi>James,</hi> and if he would, he aſſured the Cabal would perform it. That alſo the ſaid <hi>Anſelm</hi> did deſire to know of a Gentleman of your own Country, where he could raiſe Men in <hi>Cornwal,</hi> for the Late King <hi>James,</hi> and what Number: So (for your Government,) you may uſe your own Diſcretion, Jam the Gentleman you commonly called your Country-man <hi>Wall,</hi> in your Kinſman <hi>Kirk's</hi> Service of <hi>Genoua;</hi> ſo ſhall de<g ref="char:EOLhyphen"/>ſire the favour of you to let me know where you receive this or no. Direct your Letter to me at Mr. <hi>William Tyler</hi> in <hi>Southampton:</hi> I have no more, but wiſh you all Pro<g ref="char:EOLhyphen"/>ſperity in your <g ref="char:V">Ʋ</g>ndertakings, I remain,</p>
+                  <closer>
+                     <signed>Your Humble Servant <hi>Peter Wall.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="8" facs="tcp:101653:5"/>
+                  <head>London <hi>the 22th.</hi> May, 1693.</head>
+                  <opener>
+                     <salute>
+                        <hi>Sir</hi> Ralph Delaval <hi>SIR,</hi>
+                     </salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Take the boldneſs, tho' unknown, to give you an Ac<g ref="char:EOLhyphen"/>count of what <hi>I</hi> hear of your Secretary Mr. <hi>Abraham Anſelm, (viz.)</hi> Yeſterday came to my Houſe a Sea-Com<g ref="char:EOLhyphen"/>mander, who told me that was Recommended by the ſaid <hi>Anſelm,</hi> to be a Sea-Commander for King <hi>James,</hi> as alſo that he had ſome time ſince, ſpoke to a <hi>Corniſh</hi> Gentle<g ref="char:EOLhyphen"/>man, to know where he could raiſe Forces in <hi>Cornwal</hi> for King <hi>James,</hi> the which this Morning I ſpoke to the Gentleman himſelf, who told me the ſame. This I thought fit to give yov an Account that you may Govern your ſelf according, knowning what Charge he is in. I ſhall deſire the favour of you to write me a Line or two, whether you receive this or no. And direct your Letter to me at Mr. <hi>William Tylers</hi> in <hi>Southampton.</hi> Is the needful at preſent, from</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Moſt Obedient Humble Servant</hi> Peter Wall.</signed>
+                     <dateline>London, <date>
+                           <hi>22th.</hi> May <hi>1693.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Your Honour is unknown to me, but you may pleaſe to Inquire of Captain</hi> Good, <hi>Captain</hi> Dover, <hi>and Captain</hi> Grantham; <hi>or any that have paſſed the</hi> Streights.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <pb n="9" facs="tcp:101653:5"/>
+            <p>Captain <hi>Wall,</hi> as he tells me, Re<g ref="char:EOLhyphen"/>ceived no Anſwer from the <hi>Ad<g ref="char:EOLhyphen"/>mirals,</hi> but their Secretary Mr. <hi>Anſelm</hi> fent him thus <hi>Letter.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>UPon Two Letters Writ to Mr. <hi>Killegrew,</hi> and <hi>Sir Ralph Delaval,</hi> wherein you Inform them, that a Sea-Commander acquainted you, that I had Conſulted with him about getting a Ship to ſerve King <hi>James,</hi> to which he applyed himſelf to a <hi>Corniſh</hi> Gentlman, to know what Forces could be raiſed, I ſuppoſe, Seaman you mean, to Man her. I am to deſire you to ſend me the Name of ſaid Commander; the Gentleman<hi>'s</hi> Namehe applyed him<g ref="char:EOLhyphen"/>ſelf to, for that purpoſe, and the Reaſon why you did not apprehend him, till ſuch an Information could be made appear in this matter, you would have done the Nation Service, and me Justice; It's look'd upon (as it is plainly Evident) as Malice, and therefore regarded accordingly; however in Justification of my ſelf, I am to inquire in this Matter, and wherein you can be ſerviceable to me in it; I ſhall think my ſelf very much obliged to you, for ſuch Villains ought to be made Examples of: Pray upon ſight hereof, let me hear from you. Direct for me, at Mr. <hi>Grandons</hi> Agent for the Victualers at <hi>Portſmouth,</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>SIR, Your Humble Servant,</hi> Ab. Anſelm,</signed>
+                     <dateline>
+                        <hi>Portſmouth</hi> 
+                        <date>
+                           <hi>the 25th.</hi> of <hi>May.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="10" facs="tcp:101653:6"/>
+            <p>Which <hi>Letter</hi> of Mr. <hi>Anſelms,</hi> Captain <hi>Wall</hi> thus Anſwered;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Mr. <hi>Abraham</hi> Anſelm. <hi>SIR,</hi>
+                     </salute>
+                  </opener>
+                  <p>YOurs of the <hi>25th. May,</hi> I have Received, by which I ſee you had ſeen what I writ to the <hi>Admirals, Killegrew,</hi> and Sir. <hi>Ralph Delaval,</hi> and if you have not let them ſee the Letters, you have not done well, for what I did Inform them, was, what was told me by one Cap<g ref="char:EOLhyphen"/>tain <hi>Peter Rowe,</hi> of your recommending him to be a Cap<g ref="char:EOLhyphen"/>tain for King <hi>James,</hi> and for the other, is a very honeſt good Gentleman, to whom you inquired where he could raiſe Forces for King <hi>James</hi> in the <hi>Weſt:</hi> There was no body but my ſelf when he told me; ſo cannot name his name, but is a Man very well known to you, and did wiſh you well, and was not willing that your Perſon ſhould come to any harm; but on the contrary, was willing that ſhould be known, that you being in ſuch a place of ſuch Truſt as this, might be of bad Conſequence to the Nation: As to what I write of the Captain, there was my Wife in Company when he told it, and alſo told of the ſame Matter, how you had been Tampering with the other Gentleman; ſo on the next day I went and Diſcourſed the ſaid Gentleman my ſelf, and he Confirmed the ſame, of which I thought Con<g ref="char:EOLhyphen"/>venient to give advice, for I think in Duty ſo to do. I have no more to add, but that I am</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Obedient Servant at Command</hi> Peter Wall.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="11" facs="tcp:101653:6"/>
+            <p>Which Letter of Captain <hi>Walls,</hi> Mr. <hi>Anſelm</hi> thus Anſwered without date.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Received yours of the 26th. Inſtant, and thank you for letting me know my Accuſers, your Letters were both delivered to Mr. <hi>Killegrew</hi> and Sir <hi>Ralph,</hi> into their own hands, before I knew any thing of the matter; who ſent for me to them, and gave them me to Read, which I could not believe, there was ſo much Villany in Man; for as I hope for Mercy from Heaven, I am ſo far from talk<g ref="char:EOLhyphen"/>ing with them about any ſuch matter, or indeed of buſineſs of any kind whatſoever, that I have been hardly three times in his Company ſince I ſaw him in <hi>Venetia;</hi> and that never at my own Invitation, but as he has been Introduc'd by others: So that what Malice will invent, no Man is ſecure from; but how poſſible it is for me to prefer him for the ſervice he pretends, without the conſent of the <hi>Admi<g ref="char:EOLhyphen"/>rals,</hi> your own ſenſe and reaſon may judge, ſince you can<g ref="char:EOLhyphen"/>not but know, that no Stranger as he is to them, is to be Recommended by a bare Character, without produceing Subſtantial Certificates, both of his Ability and honeſty from the Parties that have Imployed him: Which they must ſurely remember, if I had Recommended any ſuch Perſon, which I am ſo far from doing that I never did, but for one Man in my Life, who is known to them, and now on Board. As for the other Gentleman you mention, I preſume he is one that Mr. <hi>Rowe</hi> can Inſtuence to ſay what he pleaſes: However I do not take it unkindly of you at all, for giving this Information, for 'tis what an honeſt Man ought to do. I ſhall take care to inquire into the mat<g ref="char:EOLhyphen"/>ter, and do my ſelf that Juſtice I ought to do; The Anſwer to me now ſhall certainly be ſhewed to the <hi>Admirals,</hi> from whom nothing of this Matter ſhall be concealed,</p>
+                  <closer>
+                     <signed>
+                        <hi>Sir, I am Your Friend and Servant,</hi> Ab. Anſelm.</signed>
+                  </closer>
+                  <postscript>
+                     <pb n="12" facs="tcp:101653:7"/>
+                     <p>This is to aſſure you, I delivered the Two Letters to the Admirals.</p>
+                     <closer>
+                        <signed>J. Fletcher.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>About the ſame time alſo, that Captain <hi>Wall</hi> wrote to the <hi>Admirals,</hi> he wrote a Letter to Mr. <hi>Warre,</hi> one of the Secretaries to the Earl of <hi>Nottingham:</hi> I never ſaw the Original, nor Copy thereof; but Mr. <hi>Warre</hi> thus Anſwered it.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>White-Hall,</hi> May the 23d. 1693.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Had not your Letter till this Morning, and immedi<g ref="char:EOLhyphen"/>ately ſhew'd it to my Lord, who Comands me to tell you, that he would have you let me know, whither you have given the Admirals an Account of the Matter whereof you writ to me? And likewiſe, that you will ſend me the Name of the Perſon, who gave you this Account, and ſuch other Circumſtances as may be neceſſary for a full In<g ref="char:EOLhyphen"/>formation,</p>
+                  <closer>
+                     <signed>
+                        <hi>I am Your Humble Servant,</hi> R. Warre.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="13" facs="tcp:101653:7"/>
+            <p>WHICH Letter was Anſwered by Captain <hi>Wall,</hi> who kept no Copy thereof, but he writ in the (Original to the beſt of his Remembrance,) that I was ſo much Mr. <hi>Anſelm</hi>'s Friend, that he thought I would be loth to confeſs what I knew of him.</p>
+            <p>SOME time after that, Captain. <hi>Wall</hi> came to Town from <hi>Southampton,</hi> and the afore-mentioned Diſcourſe of the <hi>Turkey-Fleet,</hi> being in every Man's Mouth, he went, (unknown to me) to the Earl of <hi>Nottingham,</hi> and deſired his Lordſhip that I might be ſent for, and Examined.</p>
+            <p>Whereupon my Lord ſent for me by the ſaid Captain, and I was Examined by his Lordſhip, as to what I had ſaid concerning Mr. <hi>Anſelm;</hi> and my Lord asked me if I could Swear; it I aſſured his Lordſhip, I had ſaid nothing but what was True, and could, with a ſafe Conſcience, take my Oath of it, but not with as ſafe Intereſt, becauſe of the 1500 <hi>l.</hi>
+            </p>
+            <p>His Lordſhip ordered me to write down what I had ſaid; but, becauſe it was long, I deſir'd an Hour or two's time to do it in, which being granted, I brought the following Account to his Lordſhip in the Afternoon.</p>
+            <floatingText xml:lang="eng" type="account">
+               <body>
+                  <pb n="14" facs="tcp:101653:8"/>
+                  <p>ABout two Months ſince, (as near as I can remem<g ref="char:EOLhyphen"/>ber) one Captain <hi>Peter Rowe</hi> came to me at the Ship-Tavern without <hi>Temple-Bar,</hi> and told me he had a Buſineſs to Impart to me, that (perhaps) I would hard<g ref="char:EOLhyphen"/>ly give credit to; I asking what it was, he told me, That there came an unknown Gentleman to his Lodgings, and, Inquiring for him by his Name, he being in the way, made Anſwer unto him hiſelf: The Gentleman told him he was a Stranger to his Perſon, but however, had heard of his Character, and told him that Mr. <hi>Abraham Anſelm</hi> had recommended him to great Lord, (from whom he came) as a fit Perſon to take the Command of a Ship of War, and that, if he were willing, to bring in <hi>King James</hi> again, he ſhould have a Ship of Eighty or Ninety Guns, and he would introduce him to the Lord that ſent him, otherwiſe the Lord was not to be known. He made Anſwer, (as he inform'd me) that he thanked the Lord, and Mr. <hi>Anſelm,</hi> for their Eſteem of him; but, although he was a Man of Misfortunes, yet he was a true Subject to the Government Eſtabliſhed, and ſo re<g ref="char:EOLhyphen"/>fuſed to accept thereof.</p>
+                  <p>After this, asking my Advice, what proper Courſes he ſhould take in this Matter, I told him his beſt way was to acquaint the Earl of <hi>Nottingham,</hi> or the Ad<g ref="char:EOLhyphen"/>mirals of the Fleet with it, and withal, told him, I was the more apt to give credit to what he ſaid, for that, about a Twelve Month ſince, meeting Mr. <hi>An<g ref="char:EOLhyphen"/>ſelm,</hi> and Sir <hi>Richard White,</hi> in the <hi>Pall-Mall,</hi> Mr. <hi>Anſelm</hi> told me, <hi>Jack,</hi> I know that thou art an Honeſt Fellow, and one that has great intereſt in the Tinners in the County of <hi>Cornwal,</hi> and asked me what Men <hi>I</hi> could raiſe, in caſe there ſhould be a Deſign to bring in King <hi>James;</hi> telling me, that in <hi>Monmouth</hi>'s
+<pb n="15" facs="tcp:101653:8"/>Rebellion <hi>I</hi> was much for King <hi>James,</hi> and hop'd <hi>I</hi> would be ſo ſtill, for that he had beard that <hi>I</hi> would have accepted of King <hi>James</hi>'s Commiſſion; <hi>I</hi> anſwer'd <hi>I</hi> was for the Preſent Government, and ſo we parted.</p>
+                  <p>And about five Weeks ſince, there came one Captain <hi>Peter Wall,</hi> and acquainted me that the day before there called upon him one Captain <hi>Peter Rowe,</hi> (the ſame afore-mention'd Captain <hi>Rowe,</hi>) and diſcourſing with him about the Affairs of the Fleet, and wondering how one <hi>Anſelm</hi> came to be in ſo great a Post as to be Secretary to the Navy, in regard he was a reputed <hi>Jacobite;</hi> He told him that he was ſo much his Friend that he had (unknowingly) recommended him to a great Perſon of Honour, as a fit Perſon to ſerve <hi>King James,</hi> and that there came a ſtrange Gentlement unto him, and acquanted him that his Character was made known to a great Perſon of Honour, from whom he came, and that if he were willing to bring in <hi>King James</hi> again, he might have a Ship of Eighty or Ninety Guns, and would alſo tell him the Lord's Name, but he refuſing the offer, (as he told me) the Gentleman went away, and ſaid no more.</p>
+                  <p>But Captain <hi>Rowe</hi> finding that Captain <hi>Wall</hi> gave but little credit to what he ſaid, told him he had re<g ref="char:EOLhyphen"/>lated the ſame thing to me, and thereupon Captain <hi>Wall</hi> came to me, relating the ſame Matter, and ask'd me if <hi>I</hi> had heard any thing of it, and <hi>I</hi> told him, <hi>I</hi> had; then Captain <hi>Wall</hi> asking of me what was the beſt Methods to be uſed, being a National Concern, <hi>I</hi> told them the best way was to write to the Earl of <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and ſo likewiſe to the Admirals of the Fleet. And Captain <hi>Wall</hi> wrote to the Admirals, Mr. <hi>Kille<g ref="char:EOLhyphen"/>grew,</hi>
+                     <pb n="16" facs="tcp:101653:9"/>and Sir <hi>Ralph Delaval,</hi> but had no retrurn from themſelves, but had two Evaſie Letters from Mr. <hi>Anſelm,</hi> nothing of Anſwer to what Cap<g ref="char:EOLhyphen"/>tain <hi>Wall</hi> writ, or the Matters he accuſed him with, which Letters Captain <hi>Wall</hi> has in his cuſtody, and Copies thereof <hi>I</hi> have now by me. Captain <hi>Wall</hi> likewiſe wrote a Letter to Mr. <hi>Warre,</hi> Secretary to the Earl of <hi>Nottingham,</hi> which was Anſwered the <hi>23d.</hi> of <hi>May</hi> last, a Copy whereof <hi>I</hi> have now by me, and Captain <hi>Wall</hi> has the Original; which was An<g ref="char:EOLhyphen"/>ſwered by Captain <hi>Wall</hi> about two or three days after that, but Captain <hi>Wall</hi> had no Anſwer ſince, as he has inform'd me,</p>
+                  <closer>
+                     <signed>John Praed.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Sworn before me this</hi> 7th. <hi>Day of</hi> June, <hi>1693.</hi>
+                     </p>
+                     <closer>
+                        <signed>Nottingham.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>SOME time after Mr. <hi>Anſelm</hi> was ſent for, and ſoon after that again, I received the following Order, which was left at my Lodgings.</p>
+            <floatingText xml:lang="eng" type="summons">
+               <body>
+                  <p>
+                     <hi>Mr.</hi> Praed <hi>is deſired to attend at the Earl of</hi> Not<g ref="char:EOLhyphen"/>tingham<hi>'s Office at</hi> Whitehall, <hi>at Four of the Clock this Afternoon, being</hi> July <hi>the 7th</hi> 1693.</p>
+                  <closer>
+                     <signed>Francis Clarke, <hi>Meſſenger.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="17" facs="tcp:101653:9"/>
+            <p>Captain <hi>Wall,</hi> Captain <hi>Rowe</hi> and my Self came ac<g ref="char:EOLhyphen"/>cordingly, and having been Examined ſeperately be<g ref="char:EOLhyphen"/>fore the Privy Council, Mr. <hi>Anſelm,</hi> and my Self, were at laſt call'd in Face to Face.</p>
+            <p>And after the Two firſt Paragraphs, of what I had Depoſed before my Lord <hi>Nottingham,</hi> were Read by Sir <hi>John Trenchard,</hi> it was asked by my Lord Mar<g ref="char:EOLhyphen"/>queſs of <hi>Wincheſter</hi> of Mr. <hi>Anſelm,</hi> what Acquain<g ref="char:EOLhyphen"/>taince he had with Sir <hi>Richard White,</hi> and Mr. <hi>An<g ref="char:EOLhyphen"/>ſelm</hi> anſwered, he had but little, or that he had no great acquaintance with him. Then it was asked if he were not Bail for Sir <hi>Richard White,</hi> when he was Clap't up into <hi>Newgate,</hi> upon the ſuſpicion of the <hi>French</hi> Invaſion; he anſwered, that he was Bail, and when it was asked him what he was Bail for, his Anſwer was, for that Sir <hi>Richard</hi> was his Friend.</p>
+            <p>After that it was asked him, if he had any more to ſay for himſelf, and he Anſwered their Lordſhips, that he had adventured his Life for his King and Country, and that being more then I had done, he hoped he ſhould have the more, and I the leſs Cre<g ref="char:EOLhyphen"/>dit.</p>
+            <p>To which I anſwered (by their Lordſhips leave) that Mr. <hi>Anſelm</hi> knew that I had adventured my Life for King <hi>Charles</hi> the II. and not for his Pay, and that ſince my Caſe in <hi>Chancery</hi> was ſo lately brought to the Bar of the Houſe of Lords, their Lordſhips might pleaſe to Remember how much I have ſuffered for my Country, and to conſider the preſent Riſque that I was running, for atteſting the Truth, I ſo accidental<g ref="char:EOLhyphen"/>ly ſaid without any deſign againſt Mr. <hi>Anſelm.</hi>
+            </p>
+            <pb n="18" facs="tcp:101653:10"/>
+            <p>UPON which we were diſmiſt, and ſometime after the Two Captains, and my Self, were Ordered to attend the Kings Council, which we did.</p>
+            <p>And, on the 7th of <hi>September</hi> in the Morning I was ſerved with the following Subpoena Ticket.</p>
+            <floatingText xml:lang="eng" type="subpoena">
+               <body>
+                  <opener>
+                     <salute>Mr. <hi>John Praed.</hi>
+                     </salute>
+                  </opener>
+                  <p>BY Virtue of their Majeſties Writ of Subpoena, to you and others Directed; you are to be, and perſonally appear, before Their Majeſties Commiſſioners of <hi>Oyer</hi> and <hi>Terminer</hi> at <hi>Hick's-Hall</hi> in St. <hi>Johns-ſtreet,</hi> to Mor<g ref="char:EOLhyphen"/>row being the 7th. of this Inſtant <hi>September,</hi> at Two of the Clock in the Afternoon, to give Evidence on Their Majeſties behalf, againſt <hi>Abraham Anſelm,</hi> for high Miſdemeanour againſt their Majeſties. And this you are not to Omit, under the Penalty of <hi>100 l.</hi> dated the 6th. of <hi>September, 1693.</hi>
+                  </p>
+                  <closer>
+                     <signed>P. Cey.</signed>
+                  </closer>
+                  <trailer>
+                     <hi>To Mr.</hi> John Praed.</trailer>
+               </body>
+            </floatingText>
+            <pb n="19" facs="tcp:101653:10"/>
+            <p>I Waited the ſame Day, from Two till Eight, and next Morning, from Eight till Twelve of the Clock; and then I was Sworn, with the Two Cap<g ref="char:EOLhyphen"/>tains, and after them, was called in before the Grand Jury.</p>
+            <p>I told them what I had to ſay, and they asked me, what Men I could pretend to raiſe in <hi>Cornwal,</hi> I thought that was an Improper Queſtion, becauſe I did not pretend to raiſe any, and I anſwered it ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p>Then, one of them asked me, if Mr. <hi>Anſelm</hi> was not in Drink, or in Jeſt, when he ſaid the words, I told them, he could not be much in Drink, becauſe we had drunk but little; but whether he was in Jeſt or not, (when he ſaid theſe words,) I told them, I could not ſo well tell, becauſe a Man may ſpeak a thing ſeemingly in Jeſt, and yet deſign it in Earneſt.</p>
+            <p>But I told them, (as I told the Lords of the Privy Council) that he ſpoke them after ſuch a manner, that I did not take ſo much notice of them, until he became Bail (as aforeſaid) for Sir <hi>Richard White.</hi> And then another asked me, if he did not ſpeak the words, ſeem<g ref="char:EOLhyphen"/>ingly, in Jeſt; I told them all, that I was upon my Oath, and my Conſcience, as well as they, (and that to my ſeeming,) he ſpake theſe words after this way of ſpeaking ſome others. And they asking me no more Queſtions, brought it in <hi>Ignoramus.</hi>
+            </p>
+            <p>But one of the Jury came to me, as I was going out of the Room, and asked me, if I was that <hi>Praed</hi> that
+<pb n="20" facs="tcp:101653:11"/>Printed the <hi>Varieties of Villany</hi> againſt Mr. <hi>William Warre.</hi> I told him I was, he ſaid, I had done my ſelf a great deal of Right, and that he had made uſe of the thing to Vindicate my Evidence, which was call'd in Queſtion.</p>
+            <p>AND now give me leave to tell you, I have been no more a Malicious, or Self-Intreſs'd Evidence againſt Mr. <hi>Anſelm,</hi> in this Caſe, then Mr. <hi>Anſelm</hi> was a<g ref="char:EOLhyphen"/>gainſt himſelf, when he was an Evidence both for me, and againſt me, in my Caſe Contra <hi>Warre</hi> and <hi>Gates.</hi>
+            </p>
+            <p>For when he was Examined upon Oath, and Inter<g ref="char:EOLhyphen"/>rogatories by Sir <hi>John Francklin,</hi> one of the Maſters in <hi>Chancery,</hi> to know if he, or his Partner at <hi>Venice,</hi> or both, ever ſent down to <hi>Zant</hi> any Money to me in particular, for Account of the ſaid <hi>Warre</hi> and <hi>Gates,</hi> he Anſwered in the Negative, tho' his Depoſition was ſomething againſt his Honour, and above 1500 <hi>l.</hi> a<g ref="char:EOLhyphen"/>gainſt his Intereſt.</p>
+            <p>For I having drawn from <hi>Zant,</hi> for Account of the ſaid <hi>Warre</hi> and <hi>Gates</hi> 6000 Dollars, by a Letter of Exchange, on Mr. <hi>Williams</hi> and <hi>Anſelm</hi> then at <hi>Venice;</hi> and thereby ordered them to ſend me down the ſame by the firſt Ship, Mr. <hi>Williams</hi> (unknown to Mr. <hi>Anſelm,</hi> as he aſſured me) accepted the ſaid Letter, both in his own, and Mr. <hi>Anſelms</hi> Name; but, being in Combination with Mr. <hi>Warre,</hi> to wrong me of all, and more then all, I was worth in the World, he, nor his Partner, never ſent me the ſaid Sum, nor any part thereof.</p>
+            <pb n="21" facs="tcp:101653:11"/>
+            <p>So that Mr. <hi>Anſelm,</hi> as well as Mr. <hi>Williams,</hi> (by the Law of all Trading Nations,) remains my Debitor, not only for the Principle, (which is about 1500 <hi>l.</hi>) but alſo for Intereſt, and all Damages, from the Year 1680 to this Day.</p>
+            <p>But I did never trouble Mr. <hi>Anſelm</hi> for any part of it, becauſe I could not think in my Conſcience, that ſuch a Man as he ſeems to be, would be acceſſary to Mr. <hi>Williams</hi> and Mr. <hi>Warres</hi> deſigns aforeſaid.</p>
+            <p>NOT WITHSTANDING which, <hi>&amp;c.</hi> I have been often told that I have betray'd my Friend by the aforeſaid Information, and I have as often anſwer'd, that he betray'd himſelf to an Enemy to Treaſon: And all Effects, of what kind ſoever, art chargeable on the firſt Cauſes.</p>
+            <p>Yet I kept his Council (if I may call it ſo) as long as I could, <hi>But even a Son, by way of Preven<g ref="char:EOLhyphen"/>tion, may betray his Father for Treaſon,</hi>
+               <note place="margin">Cic. Offic. lib. 3d.</note> 
+               <hi>in caſe the danger be Great and Imminent.</hi>
+            </p>
+            <p>I knew I ſhould be call'd an Informer, for confeſ<g ref="char:EOLhyphen"/>ſing the Truth at ſuch a time, Eſpecially any thing like Treaſon; but Defamation is incident to all In<g ref="char:EOLhyphen"/>ſtances of duty, and I thought it a very ſeaſonable opportunity to lay out my Reputation, whatever came in thereby.</p>
+            <pb n="22" facs="tcp:101653:12"/>
+            <p>Yet Mr. <hi>Anſelm</hi> was ſo kind (in his Letter with<g ref="char:EOLhyphen"/>out date) to Captain <hi>Wall,</hi> as to Commend him for giving Information to the Admirals, <hi>For 'twas what an Honest Man ought to do;</hi> And truly ſuch an Honeſt Act, (if I may judg by the rough Draught, I have ſeen thereof) ſeems to have reſpected the Publick Good of <hi>England,</hi> rather than the private Intereſt of him, that Exerciſed it.</p>
+            <p>But, in the ſame Letter, Mr. <hi>Anſelm</hi> preſumed, <hi>That the other Gentleman was one, whom Captain</hi> Rowe <hi>could Influence to ſay what he pleas'd,</hi> and I preſume he meant me, becauſe he thanked Captain <hi>Wall</hi> in the ſaid Letter, <hi>for letting him know his Accuſers,</hi> of whom he ſeems thereby to have ſatisfied.</p>
+            <p>I am ſure one of his Accuſers hath not Incrimi<g ref="char:EOLhyphen"/>nated him, of what he hath been Guilty himſelf, though he was unwilling to have his Name known, and he could aſſure Mr. <hi>Anſelm</hi> alſo by other Reaſons, (which it may be he already knows of) that he is not one of thoſe whom any others <hi>can Influence to ſay or Act,</hi> &amp;c.</p>
+            <pb n="23" facs="tcp:101653:12"/>
+            <p>
+               <hi>IN his Firſt Letter to Captain</hi> Wall, <hi>he calls me alſo One of thoſe Villains, which ought to be made Examples of.</hi>
+            </p>
+            <p>FOR my part, I do regard ſuch Words, as Ho<g ref="char:EOLhyphen"/>neſt Women do the Incrimination of Varlets; for no Man is a Villain, but he that Acts Villainous Things, either for one, or againſt another. <hi>Non e Villan' che Villan' ſia, ma quel e Villan', che fa Villa<g ref="char:EOLhyphen"/>nia.</hi>
+            </p>
+            <p>And, above all Villains, (except two) I hate <hi>A Malicious Informer,</hi> (as Mr. <hi>Anſelm</hi> calls me,) and ſuch an Informer as will ſay unto me, <hi>Do not you tell that you had the Information from me, for if you do,</hi>
+               <note place="margin">Sen. Mor. pa. 169.</note> 
+               <hi>I'll deny it. By which means</hi> (as my Author ſays) <hi>Friends are ſet together by the Ears, and the Informer ſlips his Neck out of the Collar.</hi> Such an Informer is farther ſet forth by the following Letters from Mr. <hi>Williams,</hi> and Mr. <hi>Anſelm,</hi> (then Factors at <hi>Venice,</hi>) to a Certain Merchant, and Company of <hi>London.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="24" facs="tcp:101653:13"/>
+                  <head>Venice <hi>the 14<hi rend="sup">th</hi>
+                     </hi> 9<hi rend="sup">ber.</hi> 1691.</head>
+                  <p>WHat hath been here generally diſcours'd for ſome time, we have now an aſſured Ground to believe, und that is the Endeavour of Conſul <hi>Hobſon</hi> to Eſtabliſh himſelf Agent of <hi>Venice,</hi> and his Son Con<g ref="char:EOLhyphen"/>ſul. The Wiſdom of the Supream Powers will ſufficiently Canvas this Propoſal, whether it be for his Majeſties Intereſt, for a Man that hath lived all his time in the Sphere of a very private Merchant, with little Cre<g ref="char:EOLhyphen"/>dit, till he writ himſelf Conſul, and that jump'd into the Profeſſion from Supra Cargo, that hath his Wife and Family of this Country, whoſe Eſtate is likewiſe here wholly concern'd. We ſay whether ſuch a one (ſetting aſide what alſo might be ſaid with reſpect to the Infir<g ref="char:EOLhyphen"/>mity of his Body, and Cloſeneſs of his Fists) may be a meet Subject to repreſent the Majeſty of <hi>England,</hi> Eſpecially when we conſider the Promotion of his Son to the Conſulſhip, whom any one knows, that knows him; that he is ſuch a miſerable Tool of State, more ſit to ſerve a Seven Years Apprentiſhip, than appear before Sena<g ref="char:EOLhyphen"/>tors. This alſo we write, and recommend to your Secre<g ref="char:EOLhyphen"/>cy, that no Odium may fall upon us, but as we are nei<g ref="char:EOLhyphen"/>ther Deſirous or Ambitious <hi>(Si Foſſe per Imagina<g ref="char:EOLhyphen"/>tione)</hi> of any ſuch Imployment, ſo it ſhould diſpleaſe us to ſee Places of Honour and Trust, Bought and Sold at the pleaſure of the most unbecoming.</p>
+               </body>
+            </floatingText>
+            <pb n="25" facs="tcp:101653:13"/>
+            <p>Mr. <hi>Anſelm</hi> was the Pen-man of this Epiſtle, but, to do him Right, Mr. <hi>Williams</hi> moſt commonly pre<g ref="char:EOLhyphen"/>ſcribed to him; and therefore, <hi>I preſume</hi> (to uſe ſome of his own Words) <hi>He could Influence him to write what he pleas'd.</hi>
+            </p>
+            <p>And now if I did know Mr. <hi>Anſelm</hi> to be more unfit to ſerve His Majeſty, King <hi>William</hi> the III. then Mr. <hi>Hobſon</hi> and his Son were to ſerve King <hi>Charles</hi> the II. the queſtion, which I would put to Mr. <hi>Anſelm</hi> himſelf, is, Whether, all other things conſidered, I am as much to blame as he, and ma<g ref="char:EOLhyphen"/>ny other Perſons report me to be?</p>
+            <p>GIVE me leave to tell you but one thing more, and that is concerning the Two Factors aforeſaid.</p>
+            <p>There happen'd at laſt a Difference between them<g ref="char:EOLhyphen"/>ſelves, wherein, I muſt needs ſay, Mr. <hi>Anſelm</hi> di<g ref="char:EOLhyphen"/>ſtinguiſh'd himſelf much to his Commendation, for when he had written home to his Corriſpondents, in offence to Mr. <hi>Williams,</hi> and in defence of himſelf, he ſhew'd him what he had written, and what An<g ref="char:EOLhyphen"/>ſwers he had received thereto: But Mr. <hi>William</hi>'s dealt not ſo honourably with him, for he writ home a ſecret Letter as full of Scurrility, as ſome Mens Diſcourſes are. And becauſe it is ſo, I ſhall conclude this Letter with the leaſt part of that.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="26" facs="tcp:101653:14"/>
+                  <head>Venice <hi>the</hi> 9th. <hi>of</hi> May 1681.</head>
+                  <p>
+                     <hi>I</hi> Was not a little ſtartled, when lately Mr. <hi>Anſelm</hi> Recommended to my peruſual, the Contents of yours to him in <hi>proprio,</hi> dated the 25th paſt. I eaſily obſerved there<g ref="char:EOLhyphen"/>by, how I have been repreſented by one whoſe corrupt Judg<g ref="char:EOLhyphen"/>ment hath been ſo far from diſcerning his own Interest that he hath ever perverted the deſigns that others have put on foot for his good, <hi>&amp;c.</hi> It is ſtrange you ſhould lay ſo much weight on the report of ſuch a fellow, that found no founda<g ref="char:EOLhyphen"/>tion to raiſe himſelf but on the failings of another. What a condition think you had I been in, had that unnatural Brute any thing material to writ of, but becauſe he want<g ref="char:EOLhyphen"/>ed Subject, he made a Contrivance of Impudent Lyes to give plauſibility to his most Ignominious, and I had al<g ref="char:EOLhyphen"/>most ſaid Inhumane Ingratitude, <hi>&amp;c.</hi> But were there any need to give the Portraict of this <hi>Informer,</hi> I could do it at large, and unto his Confuſion.</p>
+               </body>
+            </floatingText>
+            <pb n="27" facs="tcp:101653:14"/>
+            <p>I JUST now met with the MEMOIRS of the Preſent State of <hi>Europe,</hi> for the Month of <hi>Auguſt,</hi> 1693. and therein is this Paſſage.</p>
+            <floatingText xml:lang="eng" type="passage">
+               <body>
+                  <p>
+                     <hi>MR. Anſelm</hi> Secretary to the Admirals, having been charg'd for holding a Correſpondency with the Enemy, is brought up to <hi>London.</hi> The principal Witneſ<g ref="char:EOLhyphen"/>ſes against him are Captain <hi>Rowe,</hi> and Captain <hi>Wallis,</hi> and one <hi>Praed</hi> a Tradeſman and Citizen of <hi>London,</hi> who have all Three been confronted by him before the Privy Council, and charge him with having in theſe Two Years laſt paſt Correſponded Criminally, with a Brother of the Marqueſs <hi>Albeville,</hi>
+                     <note place="margin">I am told that there is more Truth in this then the World is a<g ref="char:EOLhyphen"/>ware of, for Sir <hi>Rich<g ref="char:EOLhyphen"/>ard White</hi> being a <hi>Spaniſh Chevalier</hi> is of nedr Relation to <hi>Albeville.</hi>
+                     </note> the Envoy formerly from King <hi>James</hi> at the <hi>Hague,</hi> as alſo, with having en<g ref="char:EOLhyphen"/>deavoured to debauch a Sea-Officer, into the Service of <hi>France,</hi> where they ſay he promiſed kins, he would get him the Command if to Ship of <hi>80</hi> Guns. The Attourny General hath Orders to proſecute him: And in the mean time, another Secretary is ſent down to the Ad<g ref="char:EOLhyphen"/>mirals. It muſt needs be, that either Mr. <hi>Anſelm,</hi> or ſome other hath given notice to the Enemy of all that did paſs. Becauſe they have taken their meaſures, ſo that it cannot be doubted but that they were well inſtructed. They write that ſince this, he hath been diſcharged out of the hands of the Meſſenger, who had him in Custody, upon his giving ſecurity to appear at all times, when ever he is cal<g ref="char:EOLhyphen"/>led for.</p>
+                  <pb n="28" facs="tcp:101653:15"/>
+                  <p>By which, and what follows, you may ſee how ſome things are repreſented.</p>
+                  <bibl>
+                     <hi>London Gazette,</hi> from Munday <hi>October</hi> the <hi>23d.</hi> to Thurſday, <hi>October</hi> the <hi>26th. 1693.</hi>
+                  </bibl>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>By the Lords of their Majeſties Moſt Honou<g ref="char:EOLhyphen"/>rable Privy Council.</head>
+                  <p>WHereas a Report has been raiſed, and ſpread, by <hi>Henry Kilegrew <abbr>Eſq</abbr>
+                     </hi> Sir <hi>Ralph Delaval</hi> and Sir <hi>Cloudſly Shovel Knights,</hi> Admirals of their Majeſties Fleet, that the Right Honourable, the Lord Viſcount <hi>Falkland,</hi> one of the Lords of their Majesties moſt Honourable Privy Council; did upon reading a Pa<g ref="char:EOLhyphen"/>per at the Board, ſtiffle ſomething that was material to their Justification. The Lords of the Council, having conſidered of, and Examined into the matter, are ſatisfied, and do declare, that the ſaid Report is Falſe, and Scan<g ref="char:EOLhyphen"/>dalous: Altho' upon the ſaid Examination, it doth ap<g ref="char:EOLhyphen"/>pear, that ſomething happned, which might miſtead the Admirals into that Error. And it is Ordered in Council, that this be Printed, and Publiſhed in the Gazitte.</p>
+                  <closer>
+                     <signed>W. Bridgman.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="29" facs="tcp:101653:15"/>
+            <p>AND NOW I have appeal'd to a Man of Impartial Honour and Apprehenſion; I will hope <hi>it does appear,</hi> that I have been no <hi>Malitious Infor<g ref="char:EOLhyphen"/>mer;</hi> if it doth appear, I know you will <hi>Affirm</hi> it, not ſo much againſt Mr. <hi>Anſelm,</hi> as in favour of your moſt</p>
+            <closer>
+               <signed>
+                  <hi>Effectual Friend, And Humble Servant</hi> John Praed.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My Dear Friend,</salute>
+            </opener>
+            <p>I Receiv'd your Letter, and being pleaſed with the the Peruſal thereof; I read it over and over, according to Preſcription I have met withal in one part of the <hi>Turkiſh-Spys.</hi>
+            </p>
+            <p>I have likewiſe ſhewn it to ſome of your Friends, and mine; and we are all exceeding glad to ſee you vindicate your ſelf ſo upon all Occaſions, that the World may not believe you are one of thoſe <hi>Villains that ought to be made Examples of.</hi>
+            </p>
+            <p>And ſince you dar'd to ſpeak the Truth ſo much a<g ref="char:EOLhyphen"/>gainſt your own Intereſt, to Serve your King and
+<pb n="30" facs="tcp:101653:16"/>Country; Let me prevail with you to Print your Letter for the Publick Good, and your own Re<g ref="char:EOLhyphen"/>putation.</p>
+            <p>The Suppoſition I have, that you deſign'd ſo do, puts me in mind of this Paſſage, in the Deſcripti<g ref="char:EOLhyphen"/>on of <hi>Ruſſia.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>Juan Vaſiloreidg,</hi> one of the Emperors of <hi>Ruſſia,</hi> nail'd a <hi>French</hi> Ambaſſadors Hat to his Head, for putting it on before him. At which time Sir <hi>Je<g ref="char:EOLhyphen"/>rome Boze,</hi> Ambaſſador from Queen <hi>Elizabeth,</hi> put on his Hat, and Cockt it, ſaying, That the <hi>French</hi> Ambaſſador repreſented a Cowardly King of <hi>France,</hi> but he, the Invinſible Queen of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who vail'd Her Bonnet to no Prince in Chriſtendom, and was both able and willing to vindicate her Miniſter—Look you there, quoth the Emperor to his <hi>Boyars,</hi> Which—of ye all dare do ſo much for your Maſter, as this Man doth for his Miſtreſs!</q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101653:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
